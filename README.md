@@ -5,7 +5,7 @@
    <div align="center">
     <a href="https://github.com/pedroaurelli">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroaurelli&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaurelli&langs_count=7&theme=github_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaurelli&langs_count=7&theme=github_dark&layout=compact"/>
   </div><br>
 <div align="center"> 
   <a href="https://www.instagram.com/pedroaurelli/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
