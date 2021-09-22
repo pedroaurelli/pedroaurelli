@@ -6,8 +6,10 @@
     <a href="https://github.com/pedroaurelli">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroaurelli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaurelli&langs_count=7&theme=algolia&layout=compact&count_private=true"/>
+     <img height="108em" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod">
  </div><br>
-   
+ 
+              
 <div align="center"> 
   <a href="https://www.instagram.com/pedroaurelli/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  	<a href="https://www.twitch.tv/pedroaurelli" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
