@@ -17,11 +17,13 @@
 </div><br>
    
 <div align="center">
+ <a href="https://github.com/pedroaurelli">
    <img height="300px" src="https://media.giphy.com/media/28HpcLBzGp1i70Jmla/giphy.gif">
+ </a>
  </div><br>
 
  <div align="center">
-
+  <a href="https://github.com/pedroaurelli">
    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -29,4 +31,5 @@
    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+   </a>
  </div>
