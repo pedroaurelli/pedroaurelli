@@ -18,7 +18,7 @@
    
 <div align="center">
  <a href="https://github.com/pedroaurelli">
-   <img height="300px" src="https://media.giphy.com/media/28HpcLBzGp1i70Jmla/giphy.gif">
+   <img height="300px" src="https://monophy.com/media/12CSpwCtoy1Vfy/monophy.gif">
  </a>
  </div><br>
 
