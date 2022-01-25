@@ -1,6 +1,4 @@
-
-
- <div align="center">
+<div align="center">
     <a href="https://github.com/pedroaurelli">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pedroaurelli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaurelli&theme=algolia&layout=compact"/>
@@ -29,4 +27,10 @@
    <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
    </a>
+ 
+ </div>
+ <div align="center">
+  <br>
+  Atualmente aprofundando e estudando <b>React.js</b>!
+  
  </div>
