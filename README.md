@@ -31,8 +31,3 @@
    </a>
  
  </div>
- <div align="center">
-  <br>
-  Atualmente aprofundando e estudando <b>React.js</b> e <b>TypeScript</b>!
-  
- </div>
