@@ -1,7 +1,7 @@
 <div align="center">
     <a href="https://github.com/pedroaurelli">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pedroaurelli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaurelli&hide=html&theme=algolia&layout=compact"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaurelli&hide=html&theme=algolia&layout=compact&hide=java"/>
  </div><br>
  
               
